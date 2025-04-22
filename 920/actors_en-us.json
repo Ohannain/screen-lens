@@ -1,0 +1,76 @@
+{
+    "actors": [
+        {
+            "id": 887,
+            "roles": [
+                {
+                    "role": "Lightning McQueen",
+                    "hidden": false,
+                    "timeframes": [
+                        {
+                            "start": 32,
+                            "end": 62
+                        },
+                        {
+                            "start": 68,
+                            "end": 90
+                        },
+                        {
+                            "start": 106,
+                            "end": 107
+                        },
+                        {
+                            "start": 132,
+                            "end": 148
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7907,
+            "roles": [
+                {
+                    "role": "Mack",
+                    "hidden": false,
+                    "timeframes": [
+                        {
+                            "start": 63,
+                            "end": 90
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 160042,
+            "roles": [
+                {
+                    "role": "Bob Cutlass",
+                    "hidden": false,
+                    "timeframes": [
+                        {
+                            "start": 193,
+                            "end": 257
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 942993,
+            "roles": [
+                {
+                    "role": "Darrell Cartrip",
+                    "hidden": false,
+                    "timeframes": [
+                        {
+                            "start": 193,
+                            "end": 257
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
